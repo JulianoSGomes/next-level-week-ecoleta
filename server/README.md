@@ -4,7 +4,7 @@
 ```bash
 yarn dev
 ```
-### Authentication
+### API
 
 |            | uri                       | Desc. |
 | ---------- | ------------------------- | ----- |
