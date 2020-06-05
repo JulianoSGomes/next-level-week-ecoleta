@@ -1,9 +1,8 @@
-#web
-
 ## dependencies
 web/node_modules
 web/.pnp
 web/.pnp.js
+
 
 ## misc
 web/.DS_Store
@@ -15,14 +14,3 @@ web/.env.production.local
 web/npm-debug.log*
 web/yarn-debug.log*
 web/yarn-error.log*
-
-#server
-server/node_modules
-
-#mobile
-mobile/node_modules/**/*
-
-
-## macOS
-mobile/.DS_Store
-
